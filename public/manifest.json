@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "AI Pulse - AI News & Telegram Digest",
+  "short_name": "AIPulse",
+  "description": "AI News Aggregator, Real-time Alerts, and Daily Telegram Digest Hub",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#09090b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

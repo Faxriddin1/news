@@ -1,0 +1,6 @@
+{
+  "name": "AI Pulse - AI News & Telegram Bot Digest",
+  "description": "Система мониторинга и сбора новостей об ИИ с ежедневными сводками в Telegram-бот, тематическими фильтрами, веб-дашбордом архива, Google авторизацией, экспортом в PDF, REST API и офлайн-режимом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
